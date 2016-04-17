@@ -30,7 +30,7 @@ public class MessageService extends IntentService {
         Intent resultIntent = new Intent(NOTIFICATION);
         resultIntent.putExtra("result",result);
         sendBroadcast(resultIntent);
-        //TEst
+        
     }
 
     private List readJsonStream(InputStream in) throws IOException {
