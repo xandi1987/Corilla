@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Corilla</string>
+    <string name="title_activity_corell_activieiws">CorellActivieiws</string>
+    <string name="ShowEvents">Doos durchstöbern</string>
+    <string name="from">von</string>
+    <string name="to">bis</string>
+</resources>
